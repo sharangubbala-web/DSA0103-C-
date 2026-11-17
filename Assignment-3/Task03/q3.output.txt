@@ -1,0 +1,8 @@
+Event created: 2 rows
+Event created: 1 rows
+Event closed; seat map released
+Event created: 2 rows
+Event closed; seat map released
+Event created: 0 rows
+Event closed; seat map released
+Event closed; seat map released

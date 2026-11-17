@@ -1,0 +1,4 @@
+Series impedance: 10 + j3
+Magnitude: 10.4403
+Parallel impedance: 7.5 + j1.66667
+Error: Division by zero impedance
