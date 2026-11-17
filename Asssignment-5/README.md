@@ -1,6 +1,5 @@
 # DSA01-192425152-Assignment5
 Name: G J D Sai Sharan | Register Number: 192425152 | Department: AIML
-Compiler/version: (paste `g++ --version`)
 
 Compile:     g++ -std=c++17 -Wall -Wextra <file>.cpp -o <name>
 Sanitizer:   g++ -std=c++17 -Wall -Wextra -fsanitize=address -g <file>.cpp -o <name>_asan
